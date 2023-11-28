@@ -1,0 +1,26 @@
+
+========================
+Router
+========================
+- Telnet
+- Tunnel
+- DHCP
+- INTERNET
+
+
+========================
+Switch
+========================
+- vlan
+- vtp
+- port-security
+    violation
+    max
+    mac-add sticky
+
+
+- Remote Desktop
+    Virtual Machine
+    Original OS
+- Get "ping" and "tunnel" using your Virtual Machine.
+

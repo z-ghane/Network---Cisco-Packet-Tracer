@@ -1,0 +1,6 @@
+telnet
+tunnel
+dhcp
+internet
+vlan
+vtp
